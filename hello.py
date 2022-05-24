@@ -1,0 +1,6 @@
+print("nimra")
+print("this is \\\\ double back lsash")
+print("there are /\\/\\/\\")
+print("this is\bnimrahsghhsdg \ntuehdd")
+print("nimra\triaz")
+print("\\\" \\n \\t \\\'")
